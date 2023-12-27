@@ -1,0 +1,225 @@
+body{
+    margin:0;
+}
+.navbar{
+    width:100%;
+    height:135px;
+    display:flex;
+    box-shadow: 0px 1px 10px #ededed;
+   
+}
+.icondiv{
+    width: 20%;
+    height: 108px;
+    margin-left: 60px;
+    margin-top: 15px;
+    
+}
+.iconImg{
+    width:35%;
+    height:100%;
+    margin-left: 60px;
+    padding-left: 55px;
+}
+.choicediv{
+    width: 80%;
+    height: 130px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 0;
+    margin-right: 80px;
+}
+.upperdiv{
+    height: 50%;
+    width: 100%;
+    display: flex;
+   font-size: 14px;
+   font-family:Roboto,sans-serif;
+   margin-top: 5px;
+}
+.leftdiv{
+    width:50%;
+    height: 100%;
+    margin-left: 0;
+}
+.rightdiv{
+    width:50%;
+    height: 100%;
+    padding-right: 0;
+    margin-top: -10px;
+}
+.select{
+    border:none;
+    font-size: 15px;
+}
+td{ 
+    padding: 18px 30px 2px 2px;
+}
+.link{
+    text-decoration: none;
+    color:#292929;
+}
+.iLocation{
+    font-size: 20px;
+    color: red;
+    width: 12px;
+    height: 20px;
+}
+.iSearch{
+    font-size: 15px;
+    width: 20px;
+    color:grey;
+}
+.linkL{
+    margin-top: 10px;
+}
+.btnOrder{
+    background: #ffbc0d;
+    width:130px;
+    height: 40px;
+    border: none;
+    font-size: 15px;
+    padding-top: 0px;
+    border-radius: 5px;
+}
+.lowerdiv{
+    height: 50%;
+    width: 100%;
+    display: flex;
+   font-size: 15px;
+   font-family:Roboto,sans-serif;
+   margin-bottom: 15px;
+}
+.bodyDiv{
+    width:100%;
+    margin-top: -55px;
+}
+.bodyTable{
+width: 85%;
+margin: auto;
+margin-top: 60px;
+margin-right: 60px;
+
+}
+.tdImg{
+    width: 50%;
+    padding-top: 0;
+}
+.tdText{
+    width: 30%;
+    font-family: "Gill Sans", sans-serif;
+    font-size: 17px;
+    padding-right: 95px;
+    font-weight: 100;
+    text-align: left;
+    padding-top: 75px;
+    color: #292929;
+}
+.bImg{
+    width: 100%;
+}
+.pTd1{
+    color: #292929;
+    font-size: 15px;
+    padding-right: 26px;
+}
+h6{
+    color: #292929;  
+}
+.aTdText{
+    color: rgb(76, 149, 198);
+}
+.btnTd{
+    background: #ffbc0d; 
+    width:fit-content;
+    height: 50px;
+    border: none;
+    font-size: 15px;
+    padding: 0px 25px 0px 25px;
+
+    border-radius: 5px;
+    margin-top: 40px;
+}
+#footerDiv{
+    width: 100%;
+    height: 600px;
+    margin-top: 60px;
+}
+.footerContent{
+    height: 100%;
+    width: 78%;
+    text-align: center;
+    margin: auto;
+    font-family:Roboto,sans-serif;
+    padding-top: 50px;
+    font-size: 14px;
+}
+.pH{
+    text-align: left; 
+    
+}
+.ul{
+    text-align: left;  
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0px;
+   padding-top: 0;
+}
+li{
+    padding: 5px 0px 5px 0px;
+}
+
+.tableFooter{
+    width: 110%;
+}
+#row2{
+    margin-top: 20px;
+
+    padding-top:0 ;
+}
+.row2{
+   width:500px; 
+   height: 100px;
+   margin-top: 0;
+   padding-top:0 ;
+}
+.ul1{
+    margin-top: -30px;
+    padding-top:0 ;
+}
+.ul2{
+    margin-top: 0px;
+    padding-top:0 ;
+}
+.ul3{
+    margin-top: -55px;
+    padding-top:0 ;
+}
+.ul4{
+    margin-top: -110px;
+    padding-top:0 ;
+}
+.iconTable{
+    height: 80px;
+    margin-top: 35px;
+    padding-bottom: 6px;
+}
+.privacyTable{
+    width:100%;
+    height: 70px;
+    font-size: 15px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    text-align: left;
+    color:#292929;
+}
+#lastTd{
+    text-align: right;
+}
+.lastTable{
+  
+    height: 100px;
+    font-size: 15px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+    padding-bottom: 73px;
+    color:#292929;
+}
